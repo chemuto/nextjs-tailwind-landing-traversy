@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository
 
 ```
-    git clone https://github.com/USERNAME/REPO.git
+    git clone https://github.com/chemuto/nextjs-tailwind-landing-traversy.git
 ```
 
 2. Install dependencies
