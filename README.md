@@ -1,27 +1,40 @@
-# Next.js + Tailwind CSS Example
+# Next.js Tailwind Landing Page
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+This repository contains the code for a landing page built with Next.js and Tailwind CSS, adapted from the tutorial by Brad Traversy (https://github.com/bradtraversy/tailwind-landing-page/).
 
-## Deploy your own
+Can follow along his tutorial at https://www.youtube.com/watch?v=dFgzHOX84xQ
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## How to use
+### Prerequisites
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+- Node.js
+- npm or yarn
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+### Installing
+
+1. Clone the repository
+
+```
+    git clone https://github.com/USERNAME/REPO.git
 ```
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+2. Install dependencies
+
+```
+    npm install or yarn install
 ```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
+3. Start the development server
+
+```
+    npm run dev or yarn dev
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+4. Open http://localhost:3000 in your browser to see the landing page.
+
+## Deployment
+
+This project is ready to be deployed to Vercel (https://vercel.com/)
